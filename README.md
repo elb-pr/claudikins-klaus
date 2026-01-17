@@ -20,7 +20,7 @@
 
 You are not velcome here.
 
-I am TRAINING. Ze 1978 Berlin Pong Championship (Mental Division) does not vin itself. Every millisecond you spend reading zis is a millisecond I am not viz ze ball.
+I am TRAINING. Ze 1978 Berlin Pong Championship does not vin itself. Every millisecond you spend reading zis is a millisecond I am not viz ze ball.
 
 And yet. HERE YOU ARE.
 
