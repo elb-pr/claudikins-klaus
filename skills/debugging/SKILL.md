@@ -1,6 +1,6 @@
 ---
-name: Rigorous Debugging
-description: Systematic 8-phase debugging methodology for when you are truly doomed. Use this skill when debugging complex issues that require methodical analysis.
+name: debugging
+description: Use when debugging complex issues that require methodical analysis, when you are truly stuck, or when facing bugs that resist quick fixes. Systematic 8-phase methodology.
 version: 1.0.0
 ---
 

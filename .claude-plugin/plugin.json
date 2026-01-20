@@ -1,10 +1,13 @@
 {
   "name": "claudikins-klaus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Summon Klaus. For ven you are truly, catastrophically doomed.",
   "author": {
-    "name": "Ethan Lee"
+    "name": "elb-pr",
+    "email": "elb.pr.contact@gmail.com"
   },
+  "homepage": "https://github.com/elb-pr/claudikins-klaus",
+  "repository": "https://github.com/elb-pr/claudikins-klaus",
   "license": "MIT",
-  "keywords": ["debugging", "pong", "german", "roasting", "klaus"]
+  "keywords": ["claude-code", "debugging", "pong", "klaus", "claudikins"]
 }
